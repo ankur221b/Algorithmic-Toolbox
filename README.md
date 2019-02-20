@@ -1,1 +1,1 @@
-# Solution of Algorithmic Toolbox Coursera Assignments
+# Solutions of Algorithmic Toolbox Coursera Assignments
