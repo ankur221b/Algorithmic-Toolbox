@@ -19,4 +19,7 @@ if a==0:
 else:
         sa=lst[(a+1)%60]-1
 sb = lst[(b+2)%60]-1
-print(abs(sb-sa)%10)
+ans = (sb-sa)%10
+if ans<0:
+    ans=ans+10
+print(ans)
